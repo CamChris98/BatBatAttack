@@ -6,7 +6,7 @@ I wrote this software to demonstrate familiarity and experimentation with the un
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Demonstration video](https://youtu.be/rIk1v18Sdug)
 
 # Development Environment
 I used the Unity engine and the Visual Studio IDE to write the scripts used in the game. 
